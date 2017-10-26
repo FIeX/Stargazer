@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Stargazer.data.unityweb",
+"asmCodeUrl": "Stargazer.asm.code.unityweb",
+"asmMemoryUrl": "Stargazer.asm.memory.unityweb",
+"asmFrameworkUrl": "Stargazer.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000"
+}
